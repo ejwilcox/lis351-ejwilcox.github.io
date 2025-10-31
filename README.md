@@ -1,1 +1,1 @@
-# lis351-ejwilcox.github.io
+ejwilcox-ejwilcox.github.io
